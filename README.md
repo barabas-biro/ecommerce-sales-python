@@ -55,7 +55,7 @@ The dataset contains ecommerce order data, including order details, customer inf
 - 03_eda.ipynb
 
 ## Data Source
-- Kaggle: Ecommerce Sales Dataset (2024_2025)
+- Kaggle: E-commerce Sales Dataset (2024_2025)
 
 - File size: ~568 KB
 
