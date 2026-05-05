@@ -2,7 +2,7 @@
 E-commerce sales analysis with Python, including EDA and business insights.
 
 ## Project Overview
-This project analyzes ecommerce sales data using Python. The goal is to understand revenue trends, profit performance, customer behavior, and product/category performance.
+This project analyzes e-commerce sales data using Python. The goal is to understand revenue trends, profit performance, customer behavior, and product/category performance.
 
 ## Project Structure
 
@@ -24,7 +24,7 @@ The project is divided into three main parts:
 - Jupyter Notebook
 
 ## Dataset
-The dataset contains ecommerce order data, including order details, customer information, product categories, sales, profit, quantity, discount, and payment mode.
+The dataset contains e-commerce order data, including order details, customer information, product categories, sales, profit, quantity, discount, and payment mode.
 
 ## Analysis Performed
 - Monthly revenue trend analysis
