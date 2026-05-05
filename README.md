@@ -1,5 +1,5 @@
 ## E-Commerce Sales Analysis - Python
-Ecommerce sales analysis with Python, including EDA and business insights.
+E-commerce sales analysis with Python, including EDA and business insights.
 
 ## Project Overview
 This project analyzes ecommerce sales data using Python. The goal is to understand revenue trends, profit performance, customer behavior, and product/category performance.
