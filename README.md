@@ -48,12 +48,12 @@ The dataset contains ecommerce order data, including order details, customer inf
 - Strengthen retention strategies for top revenue-generating customers.
 
 ## Files
-01_data_loading.ipynb
-02_data_cleaning.ipynb
-03_eda.ipynb
+-01_data_loading.ipynb
+-02_data_cleaning.ipynb
+-03_eda.ipynb
 
 ## Data Source
-Kaggle: Ecommerce Sales Dataset (2024_2025)
-File size: ~568 KB
-Link: https://www.kaggle.com/datasets/prince7489/e-commerce-sales
-Used for educational and portfolio purposes only.
+-Kaggle: Ecommerce Sales Dataset (2024_2025)
+-File size: ~568 KB
+-Link: https://www.kaggle.com/datasets/prince7489/e-commerce-sales
+-Used for educational and portfolio purposes only.
